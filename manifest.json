@@ -1,9 +1,9 @@
 {
- "host": "bixiaowu",
- "user": "bixiaowu",
- "home": "/home/bixiaowu",
+ "host": "bixiaowuhome-Computer",
+ "user": "bixiaowuhome",
+ "home": "/home/bixiaowuhome",
  "os": "linux",
- "updated": "2026-10-06T11:04:15",
+ "updated": "2026-10-06T19:35:58",
  "claude_version": null,
  "codex_version": null,
  "claude_projects": []
