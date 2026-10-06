@@ -1,0 +1,52 @@
+{
+ "local-projects": {
+  "086c9938-98b8-4f40-bb5e-e3167d8d5b73": {
+   "id": "086c9938-98b8-4f40-bb5e-e3167d8d5b73",
+   "name": "OracleServer",
+   "rootPaths": [
+    "/home/bixiaowu/OracleServer"
+   ],
+   "createdAt": 1791208220694,
+   "updatedAt": 1791208220694
+  },
+  "2093ac39-5954-4893-a4ca-8ac89e52c94f": {
+   "id": "2093ac39-5954-4893-a4ca-8ac89e52c94f",
+   "name": "AiBack",
+   "rootPaths": [
+    "/home/bixiaowu/AIBACKUP"
+   ],
+   "createdAt": 1791250418313,
+   "updatedAt": 1791250418313
+  }
+ },
+ "electron-initial-follow-up-queue-mode": "steer",
+ "selected-project": {
+  "type": "local",
+  "projectId": "2093ac39-5954-4893-a4ca-8ac89e52c94f"
+ },
+ "sidebar-project-thread-orders": {},
+ "electron-thread-read-state-v1": {
+  "version": 1,
+  "unreadByIdentity": {
+   "8274b5ff02a1bdd85018a21bc461c4b70b0933f675a1b11b699ec12992f1ccd2": {
+    "local:092af2cb59bdd804c6f7f1cd1d85464b682974e43cd517397d25510024034d1c": [
+     "01a10c47-f957-7322-b013-be73b10a44f2"
+    ]
+   }
+  }
+ },
+ "project-order": [
+  "2093ac39-5954-4893-a4ca-8ac89e52c94f",
+  "086c9938-98b8-4f40-bb5e-e3167d8d5b73"
+ ],
+ "thread-project-assignments": {
+  "01a10c5e-c9b2-7553-b922-44750101a5d9": {
+   "projectKind": "local",
+   "projectId": "086c9938-98b8-4f40-bb5e-e3167d8d5b73"
+  },
+  "01a10ed8-5685-77e1-be4c-1d6fdcc9b061": {
+   "projectKind": "local",
+   "projectId": "2093ac39-5954-4893-a4ca-8ac89e52c94f"
+  }
+ }
+}
