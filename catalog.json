@@ -1,0 +1,149 @@
+{
+ "meta": {
+  "host": "bixiaowu",
+  "user": "bixiaowu",
+  "home": "/home/bixiaowu",
+  "time": "2026-10-06T10:39:28",
+  "snapshot": "9237f871"
+ },
+ "claude": [],
+ "codex": [
+  {
+   "id": "01a10ed8-5685-77e1-be4c-1d6fdcc9b061",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/06/rollout-2026-10-06T09-33-41-01a10ed8-5685-77e1-be4c-1d6fdcc9b061.jsonl",
+   "title": "我安装了aisync，运行了他的./aisync ui命令，可否帮我到他的设置里面，把L1 git 远端，L2 res…",
+   "cwd": "/home/bixiaowu/AIBACKUP",
+   "ts": "2026-10-06T01:33:41.381Z",
+   "mtime": 1791251077.3783004,
+   "size": 541666
+  },
+  {
+   "id": "01a10cd8-0789-7e31-a9d7-4d40ceeb98a0",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/06/rollout-2026-10-06T00-14-06-01a10cd8-0789-7e31-a9d7-4d40ceeb98a0.jsonl",
+   "title": "bixiaowu@bixiaowu:~/下载$ ./Codex-History-Sync-3.0.0-linux-x8…",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-06/bixiaowu-bixiaowu-codex-history-sync-3",
+   "ts": "2026-10-05T16:14:06.730Z",
+   "mtime": 1791216879.3637276,
+   "size": 53852
+  },
+  {
+   "id": "01a10cae-c2f0-73c1-9d9c-3fa9893277ee",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T23-29-02-01a10cae-c2f0-73c1-9d9c-3fa9893277ee.jsonl",
+   "title": "“服务器无法链接”最常见的原因是 Gopeed 端端口没开，或者扩展没填对。我们来一步步排查。 🔍 第一步：确认 G…",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/gopeed-gopeed-1-gopeed-api-tcp",
+   "ts": "2026-10-05T15:29:02.214Z",
+   "mtime": 1791216023.062534,
+   "size": 669976
+  },
+  {
+   "id": "01a10c5e-c9b2-7553-b922-44750101a5d9",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T22-01-41-01a10c5e-c9b2-7553-b922-44750101a5d9.jsonl",
+   "title": "我有一台oracle vps ip：140.238.38.82 用户名 sshkey相关文件该目录下自行使用 帮我进去…",
+   "cwd": "/home/bixiaowu/OracleServer",
+   "ts": "2026-10-05T14:01:41.042Z",
+   "mtime": 1791210416.1850338,
+   "size": 925992
+  },
+  {
+   "id": "01a10c52-ffe4-7652-886a-d44571826df6",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-48-48-01a10c52-ffe4-7652-886a-d44571826df6.jsonl",
+   "title": "ni shi shui",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/ni-s",
+   "ts": "2026-10-05T13:48:48.485Z",
+   "mtime": 1791208141.229319,
+   "size": 52099
+  },
+  {
+   "id": "01a10c47-f957-7322-b013-be73b10a44f2",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-36-45-01a10c47-f957-7322-b013-be73b10a44f2.jsonl",
+   "title": "Identify assistant",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/who-x20-2",
+   "ts": "2026-10-05T13:36:45.913Z",
+   "mtime": 1791207882.5485773,
+   "size": 93585
+  },
+  {
+   "id": "01a10c47-172e-7880-b77d-ed9c5adc3213",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-35-48-01a10c47-172e-7880-b77d-ed9c5adc3213.jsonl",
+   "title": "Identify the assistant",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/who-x20",
+   "ts": "2026-10-05T13:35:48.016Z",
+   "mtime": 1791207354.204049,
+   "size": 27944
+  },
+  {
+   "id": "01a10c45-1e62-74c0-a725-701d6f476fed",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-33-38-01a10c45-1e62-74c0-a725-701d6f476fed.jsonl",
+   "title": "who are u",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/who-3",
+   "ts": "2026-10-05T13:33:38.787Z",
+   "mtime": 1791207319.9355247,
+   "size": 32135
+  },
+  {
+   "id": "01a10c41-4563-7b91-ac3d-f5a2f8831314",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-29-26-01a10c41-4563-7b91-ac3d-f5a2f8831314.jsonl",
+   "title": "Identify the assistant",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/who-2",
+   "ts": "2026-10-05T13:29:26.627Z",
+   "mtime": 1791206973.520188,
+   "size": 27804
+  },
+  {
+   "id": "01a10c3f-2885-7fc0-88b6-44fcf00c5eed",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-27-08-01a10c3f-2885-7fc0-88b6-44fcf00c5eed.jsonl",
+   "title": "who are u",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/who",
+   "ts": "2026-10-05T13:27:08.166Z",
+   "mtime": 1791206916.7481709,
+   "size": 27951
+  },
+  {
+   "id": "01a10c2f-b83f-7b32-90b4-9bd34dc03b27",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T21-10-16-01a10c2f-b83f-7b32-90b4-9bd34dc03b27.jsonl",
+   "title": "za",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/zai",
+   "ts": "2026-10-05T13:10:16.390Z",
+   "mtime": 1791206761.5092714,
+   "size": 39896
+  },
+  {
+   "id": "01a10c25-0970-7c52-bff5-40de4f96ef56",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T20-58-36-01a10c25-0970-7c52-bff5-40de4f96ef56.jsonl",
+   "title": "在马",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/new-chat-2",
+   "ts": "2026-10-05T12:58:36.282Z",
+   "mtime": 1791205730.2949803,
+   "size": 28009
+  },
+  {
+   "id": "01a10bdb-d440-7e12-b5fe-460777da2084",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T19-38-38-01a10bdb-d440-7e12-b5fe-460777da2084.jsonl",
+   "title": "你是谁",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/new-chat",
+   "ts": "2026-10-05T11:38:38.534Z",
+   "mtime": 1791201606.127524,
+   "size": 50452
+  },
+  {
+   "id": "01a10bcf-c01b-7c11-bf48-210ae0b89fee",
+   "path": "/home/bixiaowu/.codex/sessions/2026/10/05/rollout-2026-10-05T19-25-26-01a10bcf-c01b-7c11-bf48-210ae0b89fee.jsonl",
+   "title": "你是谁",
+   "cwd": "/home/bixiaowu/Documents/Codex/2026-10-05/ni",
+   "ts": "2026-10-05T11:25:26.947Z",
+   "mtime": 1791200200.6751106,
+   "size": 110014
+  }
+ ],
+ "code": [],
+ "skills": {
+  "claude_skills": [],
+  "claude_agents": [],
+  "claude_commands": [],
+  "codex_skills": [
+   ".system"
+  ],
+  "codex_memories": 0,
+  "claude_memories": 0
+ }
+}
