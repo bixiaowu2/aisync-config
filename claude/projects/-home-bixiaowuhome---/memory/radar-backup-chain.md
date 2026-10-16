@@ -1,14 +1,14 @@
 ---
 name: radar-backup-chain
-description: 雷达数据的异地备份链路（ARM→AMD→Cloudflare R2）+ 各定时器时间/保留策略；实测确认没有 GitHub 备份那条腿
+description: 雷达数据的异地备份链路（ARM→AMD→Cloudflare R2）+ 各定时器时间/保留策略；代码走 GitHub 是另一条腿，见 github-code-backup
 metadata:
   node_type: memory
   type: project
   originSessionId: fa71fad5-e5c6-44fd-b346-fb93b0f7c7b7
-  modified: 2026-10-16T17:14:11.569Z
+  modified: 2026-10-16T17:35:15.885Z
 ---
 
-雷达数据的备份分三层，**没有 GitHub 这一层**（2026-10-17 实测：两台服务器都没装 git/gh、没有 GitHub 凭据、没有任何指向 GitHub 的 push；用户记忆中的 "GitHub 备份" 待澄清，本机唯一的 GitHub 同步是 `bixiaowu2/aisync-config`，那是本机配置不是雷达数据）。
+**先分清两条腿**（2026-10-17 实测澄清）：**数据**只备份到 Cloudflare R2（本文件）；**代码**备份到 GitHub 私有仓库 `bixiaowu2/codexmonitor`（见 [[github-code-backup]]）。用户说"oracle 备份到 cloudflare 和 github"时，指的是这两件事，不是同一条链路的两个目的地。
 
 **链路**：ARM 东京(雷达主机) → AMD 东京(备份主机) → Cloudflare R2(异地第三层)
 

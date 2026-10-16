@@ -6,4 +6,6 @@
 - [互动数据的可读通道](reference-engagement-data-access.md) — 广场读不到；X 官方 API 要付费额度（402）；只有 X 单条 embed 接口免费可读
 - [两台机器的 Claude 桌面版装法不同](claude-desktop-linux-setup.md) — 社区版 claude-desktop-unofficial；本机走系统 deb+社区 apt 源自动更新，bixiaowu 走用户级+自写脚本，不能互抄
 - [自建翻墙工具：CF Tunnel + Xray](cf-tunnel-vpn.md) — 已上域名 bitbit.casa 的命名隧道；Oracle 东京直连被 GFW 限速到 6KB/s（v4/v6 都死），必须走 CF 中转 + 优选 IP（实测 40Mbps）
-- [雷达数据备份链路](radar-backup-chain.md) — ARM→AMD→Cloudflare R2 三层；状态层每15分钟/日级、db 层日级/周级；**确认没有 GitHub 那条腿**
+- [雷达数据备份链路](radar-backup-chain.md) — ARM→AMD→Cloudflare R2 三层；状态层每15分钟/日级、db 层日级/周级
+- [雷达代码的 GitHub 备份](github-code-backup.md) — 仓库 bixiaowu2/codexmonitor；**靠会话手动推、无自动化**，10-13 后停了、落后 29 个文件
+- [aisync 聊天记录备份](aisync-chat-backup.md) — Claude 桌面版+Codex 聊天记录 → restic 走 R2；GUI 手动跑，无定时
