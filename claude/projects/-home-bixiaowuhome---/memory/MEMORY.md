@@ -1,0 +1,9 @@
+- [用户目标: 抓 10x-100x 并及时止盈止损](user-goal-10x.md) — 中文交流；池子先问"结构上出不出得了 10x"；对合规风险敏感
+- [Oracle 服务器雷达系统](oracle-radar-server.md) — 四套雷达（服务名≠实际脚本）+ ai-context 中继 + Tailscale 组网节点表
+- [雷达运维四条硬约束](radar-ops-constraints.md) — 钉钉 3000/月配额（查 sqlite 不看日志）；X 手动发帖；meme 不发币安广场；币安 Web3 API 需走 mihomo 代理（127.0.0.1:7890）绕开日本限制
+- [x-monitor 两类号用途不同](feedback-x-monitor-two-purposes.md) — 4 个核心号是币安 Alpha 信号用；KOL 语料号必须 routes.json 显式 []，绝不能继承到钉钉
+- [X handle 必须实测核验](feedback-kol-handle-verification.md) — 清单会腐坏（实测 25% 是死号/冒牌号），坏号静默返回 0 条不报错
+- [互动数据的可读通道](reference-engagement-data-access.md) — 广场读不到；X 官方 API 要付费额度（402）；只有 X 单条 embed 接口免费可读
+- [两台机器的 Claude 桌面版装法不同](claude-desktop-linux-setup.md) — 社区版 claude-desktop-unofficial；本机走系统 deb+社区 apt 源自动更新，bixiaowu 走用户级+自写脚本，不能互抄
+- [自建翻墙工具：CF Tunnel + Xray](cf-tunnel-vpn.md) — 已上域名 bitbit.casa 的命名隧道；Oracle 东京直连被 GFW 限速到 6KB/s（v4/v6 都死），必须走 CF 中转 + 优选 IP（实测 40Mbps）
+- [雷达数据备份链路](radar-backup-chain.md) — ARM→AMD→Cloudflare R2 三层；状态层每15分钟/日级、db 层日级/周级；**确认没有 GitHub 那条腿**
